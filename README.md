@@ -16,7 +16,7 @@ personalitzades i en temps real, millorant l'experiència de l'usuari i oferint 
 -----------------------------------------
 LLISTAT D'EINES
 ----------------------------------------
--VirtualBox --> Ubuntu Server
+-VirtualBox
 -WinSCP
 -Notepad++
 -Chrome (O cualquier otro navegador)

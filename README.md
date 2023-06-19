@@ -60,7 +60,7 @@ Hem utilitzar Mysql, amb l’eina PhpMyAdmin per tindre un entorn gràfic, i mes
  si desitja configurar el complement de validació de contrasenya, que pot utilitzar per provar la seguretat de la contrasenya de MySQL.
 
 -----------------------------------------
-BASE DE DADES
+PhpMyAdmin
 ----------------------------------------
 
 Un cop més, farem servir el gestor de paquets d'Ubuntu per instal·lar PhpMyAdmin. Ho farem amb la següent comanda:
